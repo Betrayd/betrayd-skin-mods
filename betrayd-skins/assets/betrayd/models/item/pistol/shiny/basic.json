@@ -1,0 +1,6 @@
+{
+    "parent": "betrayd:item/pistol/basic",
+    "textures": {
+        "0": "betrayd:item/pistol/shiny"
+    }
+}

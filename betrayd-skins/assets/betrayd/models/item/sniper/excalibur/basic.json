@@ -1,0 +1,6 @@
+{
+    "parent": "betrayd:item/sniper/basic",
+    "textures": {
+        "0": "betrayd:item/sniper/excalibur"
+    }
+}

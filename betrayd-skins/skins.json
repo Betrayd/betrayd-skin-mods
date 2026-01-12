@@ -1,4 +1,26 @@
 {
+  "betrayd:pistol": {
+    "shiny": {
+      "models": [
+        "betrayd:item/pistol/shiny/basic",
+        "betrayd:item/pistol/shiny/aiming"
+      ]
+    }
+  },
+  "betrayd:revolver": {
+    "shiny": {
+      "models": [
+        "betrayd:item/revolver/shiny/basic",
+        "betrayd:item/revolver/shiny/aiming"
+      ]
+    },
+    "lucky_shot": {
+      "models": [
+        "betrayd:item/revolver/lucky_shot/basic",
+        "betrayd:item/revolver/lucky_shot/aiming"
+      ]
+    }
+  },
   "betrayd:rifle": {
     "cosmic": {
       "models": [
@@ -12,6 +34,28 @@
         "betrayd:item/rifle/kraken/aiming"
       ],
       "rarity": "epic"
+    },
+    "phlebotomizer": {
+      "models:" [
+        "betrayd:item/rifle/phlebotomizer/basic",
+        "betrayd:item/rifle/phlebotomizer/aiming"
+      ]
+    }
+  },
+  "betrayd:shotgun": {
+    "holy_mary": {
+      "models": [
+        "betrayd:item/shotgun/holy_mary/basic",
+        "betrayd:item/shotgun/holy_mary/aiming"
+      ]
+    }
+  },
+  "betrayd:sniper": {
+    "excalibur": {
+      "models": [
+        "betrayd:item/sniper/excalibur/basic",
+        "betrayd:item/sniper/excalibur/aiming"
+      ]
     }
   },
   "betrayd:map_renderer": {
