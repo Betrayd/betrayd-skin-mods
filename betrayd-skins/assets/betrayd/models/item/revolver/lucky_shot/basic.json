@@ -1,0 +1,6 @@
+{
+    "parent": "betrayd:item/revolver/basic",
+    "textures": {
+        "0": "betrayd:item/revolver/lucky_shot"
+    }
+}
