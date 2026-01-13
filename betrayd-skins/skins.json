@@ -1,4 +1,6 @@
 {
+<<<<<<< Updated upstream
+=======
   "betrayd:pistol": {
     "shiny": {
       "models": [
@@ -19,8 +21,21 @@
         "betrayd:item/revolver/lucky_shot/basic",
         "betrayd:item/revolver/lucky_shot/aiming"
       ]
+    },
+    "bass_reeves": {
+      "models": [
+        "betrayd:item/revolver/bass_reeves/basic",
+        "betrayd:item/revolver/bass_reeves/aiming"
+      ]
+    },
+    "gear_shift": {
+      "models": [
+        "betrayd:item/revolver/gear_shift/basic",
+        "betrayd:item/revolver/gear_shift/aiming"
+      ]
     }
   },
+>>>>>>> Stashed changes
   "betrayd:rifle": {
     "cosmic": {
       "models": [
@@ -34,6 +49,8 @@
         "betrayd:item/rifle/kraken/aiming"
       ],
       "rarity": "epic"
+<<<<<<< Updated upstream
+=======
     },
     "phlebotomizer": {
       "models:" [
@@ -48,6 +65,12 @@
         "betrayd:item/shotgun/holy_mary/basic",
         "betrayd:item/shotgun/holy_mary/aiming"
       ]
+    },
+    "circus_trick": {
+      "models": [
+        "betrayd:item/shotgun/circus_trick/basic",
+        "betrayd:item/shotgun/circus_trick/aiming"
+      ]
     }
   },
   "betrayd:sniper": {
@@ -56,6 +79,19 @@
         "betrayd:item/sniper/excalibur/basic",
         "betrayd:item/sniper/excalibur/aiming"
       ]
+    },
+    "love_note": {
+      "models": [
+        "betrayd:item/sniper/love_note/basic",
+        "betrayd:item/sniper/love_note/aiming"
+      ]
+    },
+    "musket": {
+      "models": [
+        "betrayd:item/sniper/musket/basic",
+        "betrayd:item/sniper/musket/aiming"
+      ]
+>>>>>>> Stashed changes
     }
   },
   "betrayd:map_renderer": {
