@@ -1,6 +1,4 @@
 {
-<<<<<<< Updated upstream
-=======
   "betrayd:pistol": {
     "shiny": {
       "models": [
@@ -35,7 +33,6 @@
       ]
     }
   },
->>>>>>> Stashed changes
   "betrayd:rifle": {
     "cosmic": {
       "models": [
@@ -49,11 +46,9 @@
         "betrayd:item/rifle/kraken/aiming"
       ],
       "rarity": "epic"
-<<<<<<< Updated upstream
-=======
     },
     "phlebotomizer": {
-      "models:" [
+      "models": [
         "betrayd:item/rifle/phlebotomizer/basic",
         "betrayd:item/rifle/phlebotomizer/aiming"
       ]
@@ -91,7 +86,6 @@
         "betrayd:item/sniper/musket/basic",
         "betrayd:item/sniper/musket/aiming"
       ]
->>>>>>> Stashed changes
     }
   },
   "betrayd:map_renderer": {
