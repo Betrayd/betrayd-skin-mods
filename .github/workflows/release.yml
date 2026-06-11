@@ -1,0 +1,31 @@
+name: Release Cosmetics
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Package skins
+        run: |
+          cd "betrayd-skins"
+          zip -r "../betrayd-skins.jar" .
+
+      - name: Package hats
+        run: |
+          cd "betrayd-hats"
+          zip -r "../betrayd-hats.jar" .
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            "betrayd-skins.jar"
+            "betrayd-hats.jar"
