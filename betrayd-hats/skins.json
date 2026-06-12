@@ -29,6 +29,9 @@
         },
         "witch": {
             "models": ["betrayd:item/hat/witch"]
-        }
+        },
+        "vr": {
+            "models": ["betrayd:item/hat/vr"]
+        },
     }
 }
