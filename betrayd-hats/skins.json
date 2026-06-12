@@ -41,6 +41,9 @@
         },
         "firefighter": {
             "models": ["betrayd:item/hat/firefighter"]
+        },
+        "box": {
+            "models": ["betrayd:item/hat/box"]
         }
     }
 }
