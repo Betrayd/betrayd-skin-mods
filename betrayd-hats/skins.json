@@ -32,6 +32,6 @@
         },
         "vr": {
             "models": ["betrayd:item/hat/vr"]
-        },
+        }
     }
 }
