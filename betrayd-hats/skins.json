@@ -33,5 +33,14 @@
         "vr": {
             "models": ["betrayd:item/hat/vr"]
         },
+        "halo": {
+            "models": ["betrayd:item/hat/halo"]
+        },
+        "facemask": {
+            "models": ["betrayd:item/hat/facemask"]
+        },
+        "firefighter": {
+            "models": ["betrayd:item/hat/firefighter"]
+        }
     }
 }
