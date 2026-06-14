@@ -19,16 +19,19 @@
             "models": ["betrayd:item/hat/farmer"]
         },
         "headphones": {
-            "models": ["betrayd:item/hat/headphones"]
+            "models": ["betrayd:item/hat/headphones"],
+            "tintable": true
         },
         "miner": {
             "models": ["betrayd:item/hat/miner"]
         },
         "top_hat": {
-            "models": ["betrayd:item/hat/top_hat"]
+            "models": ["betrayd:item/hat/top_hat"],
+            "tintable": true
         },
         "witch": {
-            "models": ["betrayd:item/hat/witch"]
+            "models": ["betrayd:item/hat/witch"],
+            "tintable": true
         },
         "vr": {
             "models": ["betrayd:item/hat/vr"]
