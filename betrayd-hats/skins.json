@@ -1,52 +1,67 @@
 {
     "betrayd:hat": {
         "axe": {
-            "models": ["betrayd:item/hat/axe"]
+            "models": ["betrayd:item/hat/axe"],
+            "rarity": "rare"
         },
         "cap": {
-            "models": ["betrayd:item/hat/cap"]
+            "models": ["betrayd:item/hat/cap"],
+            "rarity": "uncommon"
         },
         "cowboy": {
-            "models": ["betrayd:item/hat/cowboy"]
+            "models": ["betrayd:item/hat/cowboy"],
+            "rarity": "epic"
         },
         "crown": {
-            "models": ["betrayd:item/hat/crown"]
+            "models": ["betrayd:item/hat/crown"],
+            "rarity": "legendary"
         },
         "deerstalker": {
-            "models": ["betrayd:item/hat/deerstalker"]
+            "models": ["betrayd:item/hat/deerstalker"],
+            "rarity": "epic"
         },
         "farmer": {
-            "models": ["betrayd:item/hat/farmer"]
+            "models": ["betrayd:item/hat/farmer"],
+            "rarity": "uncommon"
         },
         "headphones": {
             "models": ["betrayd:item/hat/headphones"],
+            "rarity": "rare",
             "tintable": true
         },
         "miner": {
-            "models": ["betrayd:item/hat/miner"]
+            "models": ["betrayd:item/hat/miner"],
+            "rarity": "epic"
         },
         "top_hat": {
             "models": ["betrayd:item/hat/top_hat"],
+            "rarity": "uncommon",
             "tintable": true
         },
         "witch": {
             "models": ["betrayd:item/hat/witch"],
+            "rarity": "epic",
             "tintable": true
         },
         "vr": {
-            "models": ["betrayd:item/hat/vr"]
+            "models": ["betrayd:item/hat/vr"],
+            "rarity": "rare"
         },
         "halo": {
-            "models": ["betrayd:item/hat/halo"]
+            "models": ["betrayd:item/hat/halo"],
+            "rarity": "uncommon"
         },
         "facemask": {
-            "models": ["betrayd:item/hat/facemask"]
+            "models": ["betrayd:item/hat/facemask"],
+            "rarity": "uncommon"
         },
         "firefighter": {
-            "models": ["betrayd:item/hat/firefighter"]
+            "models": ["betrayd:item/hat/firefighter"],
+            "rarity": "uncommon"
         },
         "box": {
-            "models": ["betrayd:item/hat/box"]
+            "models": ["betrayd:item/hat/box"],
+            "rarity": "uncommon"
         }
     }
 }
